@@ -1,0 +1,111 @@
+<style> 
+
+body{
+    font-family: 'Century';
+    color: blanchedalmond;
+    background: url(http://gruponc.es/img/m/8.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+
+#boton{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton1{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton2{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton3{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton4{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton5{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton6{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton7{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+</style>
